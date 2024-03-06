@@ -1,1 +1,0 @@
-alert("Now I am Death, Destroyer of Worlds");
