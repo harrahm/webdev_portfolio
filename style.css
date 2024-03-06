@@ -1,0 +1,27 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+#heading {
+    padding: 0.5px 20px;
+    margin: 20px;
+    outline-style: inset;
+}
+
+.subheading {
+    padding: 5px 25px;
+    margin: 0px;
+}
+
+.text {
+    padding: 5px 20px;
+    margin: 20px;
+    outline-style: inset;
+}
+
+
+#footer {
+    margin: 25px;
+}
+
