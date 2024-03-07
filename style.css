@@ -7,6 +7,7 @@ body {
     padding: 0.5px 20px;
     margin: 20px;
     outline-style: inset;
+    background-color: antiquewhite;
 }
 
 .subheading {
@@ -18,6 +19,7 @@ body {
     padding: 5px 20px;
     margin: 20px;
     outline-style: inset;
+    background-color: antiquewhite;
 }
 
 
